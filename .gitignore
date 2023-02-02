@@ -1,0 +1,9 @@
+*
+!*/
+!*.csv
+!.gitignore
+!index.html
+!README.html
+!statistic.py
+!template.html
+!.github/workflows/*.yml
